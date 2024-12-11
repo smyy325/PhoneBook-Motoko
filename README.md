@@ -1,4 +1,4 @@
-# Phonebook Application
+# Phonebook Application WEB3 workshop
 
 Motoko dilinde yazılmış bir telefon rehberi ve mesaj gönderme uygulaması.
 
