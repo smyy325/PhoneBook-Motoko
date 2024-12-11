@@ -42,4 +42,5 @@ Bu proje, kullanıcılara bir telefon rehberi oluşturma, giriş ekleme, telefon
    let entry = { desc = "Work"; phone = "555-1234" };
    await Phonebook.insert("John Doe", entry);
 ## Kurulum ve Çalıştırma
-1. Kodları Motoko Playground'da çalıştırabilirsiniz: [Motoko Playground]([https://m7sm4-2iaaa-aaaab-qabra-cai.ic0.app/](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1214004840))
+1. Kodları Motoko Playground'da çalıştırabilirsiniz: [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=1214004840)
+
